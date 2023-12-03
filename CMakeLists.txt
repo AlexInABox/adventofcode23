@@ -8,3 +8,6 @@ add_executable(D1P2 day1/part2.c)
 
 add_executable(D2P1 day2/part1.c)
 add_executable(D2P2 day2/part2.c)
+
+add_executable(D3P1 day3/part1.c)
+add_executable(D3P2 day3/part2.c)
