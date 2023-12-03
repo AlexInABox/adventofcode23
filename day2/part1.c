@@ -125,6 +125,7 @@ int main() {
     else
         printf("\n%s%d\n", "Sum of file: ", sum);
 
+    fclose(fptr);
 
     return 0;
 }

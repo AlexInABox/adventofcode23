@@ -90,5 +90,7 @@ int main() {
 
         printf("\n%s%d\n", "Sum of file: ", sum - lastPower);
 
+    fclose(fptr);
+
     return 0;
 }
