@@ -12,6 +12,9 @@ add_executable(D2P2 day2/part2.c)
 add_executable(D3P1 day3/part1.c)
 add_executable(D3P2 day3/part2.c)
 
+add_executable(D4P1 day4/part1.c)
+#add_executable(D4P2 day4/part2.c)
+
 add_executable(D6P1 day6/part1.c)
 add_executable(D6P2 day6/part2.c)
 
